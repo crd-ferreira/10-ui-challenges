@@ -1,1 +1,1 @@
-# chess-game-js
+# 10-ui-challenges
